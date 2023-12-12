@@ -1,0 +1,10 @@
+.response {
+    margin: 15px;
+    padding: 25px;
+    background-color: white;
+}
+
+.response:hover {
+    background-color: #eee;
+    cursor: default;
+}
