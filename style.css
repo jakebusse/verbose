@@ -8,3 +8,11 @@
     background-color: #eee;
     cursor: default;
 }
+
+h4 {
+    padding-top: 25px;
+}
+
+h4, .bare {
+    margin-left: 30px;
+}
